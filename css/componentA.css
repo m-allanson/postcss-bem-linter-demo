@@ -1,0 +1,9 @@
+/** @define ComponentA; use strict */
+
+.ComponentA {
+  margin: 1px;
+}
+
+.InvalidSelector {
+  margin: 0;
+}

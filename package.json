@@ -1,0 +1,14 @@
+{
+  "name": "postcss-bem-linter-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "lint": "node lint.js"
+  },
+  "devDependencies": {
+    "postcss": "^4.1.11",
+    "postcss-bem-linter": "^0.3.0",
+    "postcss-log-warnings": "^0.3.0"
+  }
+}
